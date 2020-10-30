@@ -1,3 +1,10 @@
+/**
+ * File: app.js
+ * Author: femees
+ * Student ID: 301154151
+ * App: comp229-f2020-midterm-301154151
+ */
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

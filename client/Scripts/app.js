@@ -103,12 +103,12 @@ $.fn.pageMe = function(opts){
     }
 };
 
-// IIFE
+// Javascript function to create an alert for conformation before delete the book
 (function(){
   $(".btn-danger").click(function(event){
     if(!confirm("Are you sure?")) {
       event.preventDefault();
-      window.location.assign("/games");
+      window.location.assign("/books");
     }
   });
 
