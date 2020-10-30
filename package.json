@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "comp229-f2020-midterm-301154151",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -52,10 +52,10 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Femees",
   "license": "ISC",
   "bugs": {
     "url": ""
   },
-  "homepage": ""
+  "homepage": "https://comp229-f2020-midterm-30115415.herokuapp.com/"
 }
